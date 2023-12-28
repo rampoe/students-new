@@ -1,5 +1,5 @@
 @charset "utf-8";
 
-.text-align-center {
-  text-align: center;
+li.active {
+    color: red;
 }
