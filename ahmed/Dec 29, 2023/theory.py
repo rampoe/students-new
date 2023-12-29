@@ -1,6 +1,8 @@
-# names = ["Rahman", "Ahmed", "Ayhan", "Ali", "Rampoe"]
-# numbers = [100, 2, 50, 13]
+# first_list = ["Rahman", "Ahmed"]
+# second_list = ["Ayhan", "Ali", "Shirmyrat"]
 
-# numbers.sort(reverse=True)
+# print(first_list + second_list)
 
-# print(numbers)
+# first_list.extend(second_list)
+
+# print(first_list)
