@@ -1,7 +1,5 @@
-cars = ("BMW", "Mercedes")
+thistuple = ("apple", "banana", "cherry")
+y = ("orange",)
+thistuple += y
 
-cars = list(cars)
-cars.append("Audi")
-cars = tuple(cars)
-
-print(cars)
+print(thistuple)
