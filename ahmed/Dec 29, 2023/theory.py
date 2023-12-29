@@ -1,8 +1,7 @@
-# first_list = ["Rahman", "Ahmed"]
-# second_list = ["Ayhan", "Ali", "Shirmyrat"]
+cars = ("BMW", "Mercedes")
 
-# print(first_list + second_list)
+cars = list(cars)
+cars.append("Audi")
+cars = tuple(cars)
 
-# first_list.extend(second_list)
-
-# print(first_list)
+print(cars)
