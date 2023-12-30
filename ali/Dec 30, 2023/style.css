@@ -1,21 +1,9 @@
 @charset "utf-8";
 
-/* .hello-world-class {
+.color-blue {
     color: blue;
 }
 
-#chicken-id {
-    color: green;
-}
-
-p {
+.color-red {
     color: red;
-} */
-
-/*.p-class {
-    color: blue;
-}*/
-
-/*#p-id {
-    color: green;
-}*/
+}
