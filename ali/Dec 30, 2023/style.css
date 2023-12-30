@@ -1,21 +1,29 @@
 @charset "utf-8";
 
-* {
-  box-sizing: border-box;
-}
-
-html,
 body {
-  min-height: 100vh;
+  background-color: black;
 }
 
-body {
-  position: relative;
+.btn {
+  padding: 10px 20px;
+  border-width: 2px;
+  border-radius: 15px;
+  width: 200px;
 }
 
-div {
-  position: absolute;
-  inset: 0;
+.btn-primary,
+.btn-danger {
+  font-style: italic;
+  font-size: 20px;
+  background-color: black;
+}
 
-  background-color: rgb(255, 0, 0, 0.5);
+.btn-primary {
+  color: darkturquoise;
+  border-color: darkturquoise;
+}
+
+.btn-danger {
+  color: red;
+  border-color: red;
 }
