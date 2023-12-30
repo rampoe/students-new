@@ -1,9 +1,9 @@
 @charset "utf-8";
 
-.color-blue {
-    color: blue;
-}
-
 .color-red {
     color: red;
+}
+
+p {
+    color: blue !important;
 }
