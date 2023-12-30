@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+.first-paragraph {
+  color: red;
+  background-color: yellow;
+  text-align: end;
+}
+
+body {
+  color: blueviolet;
+  background-color: aqua;
+}
