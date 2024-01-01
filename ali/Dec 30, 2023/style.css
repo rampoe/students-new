@@ -1,29 +1,8 @@
 @charset "utf-8";
 
-body {
-  background-color: black;
-}
+button {
+  border: none;
 
-.btn {
-  padding: 10px 20px;
-  border-width: 2px;
-  border-radius: 15px;
-  width: 200px;
-}
 
-.btn-primary,
-.btn-danger {
-  font-style: italic;
-  font-size: 20px;
-  background-color: black;
-}
-
-.btn-primary {
-  color: darkturquoise;
-  border-color: darkturquoise;
-}
-
-.btn-danger {
-  color: red;
-  border-color: red;
+  
 }
