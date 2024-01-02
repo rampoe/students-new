@@ -4,6 +4,13 @@
   text-align: center;
 }
 
+.first-button,
+.second-button {
+  font-size: 20px;
+  margin-top: 50px;
+  padding: 20px;
+}
+
 .first-button {
   color: white;
   background-color: chocolate;
