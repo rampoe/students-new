@@ -1,21 +1,20 @@
 @charset "utf-8";
 
 * {
-  margin-top: 30px;
-  text-align: center;
+ text-align: center;
+}
+
+.text {
+  font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+}
+
+button {
+  color: white;
+  background-color: black;
   font-size: 15px;
-  border: 30px;
-  padding: 12px 32px;
-  margin: 50px;
-  border-radius: 6px;
-}
-
-.first-button {
-  color: white;
-  background-color: rgb(231, 112, 13);
-}
-
-.second-button {
-  color: white;
-  background-color: #1B75D0;
+  border-radius: 20px;
+  padding: 10px 25px;
+  font-weight: bold;
 }
