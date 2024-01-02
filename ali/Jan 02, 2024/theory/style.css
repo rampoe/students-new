@@ -1,1 +1,21 @@
 @charset "utf-8";
+
+h1 {
+  border: 2px solid black;
+
+  /* padding-top: 20px;
+  padding-bottom: 20px; */
+
+  /* padding: 20px 0 20px 0; */
+
+  /* padding: 20px 0; */
+
+  /* padding-block: 20px; */
+
+  /* margin-inline: 20px; */
+
+  padding: 0;
+  margin: 0;
+
+  text-align: center;
+}
