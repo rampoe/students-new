@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+* {
+  text-align: center;
+}
+
+.first-button {
+  color: white;
+  background-color: chocolate;
+  border: none;
+}
+
+.second-button {
+  color: white;
+  background-color: blue;
+  border: none;
+}
