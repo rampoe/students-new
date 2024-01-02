@@ -1,21 +1,21 @@
 @charset "utf-8";
 
-h1 {
-  border: 2px solid black;
-
-  /* padding-top: 20px;
-  padding-bottom: 20px; */
-
-  /* padding: 20px 0 20px 0; */
-
-  /* padding: 20px 0; */
-
-  /* padding-block: 20px; */
-
-  /* margin-inline: 20px; */
-
-  padding: 0;
-  margin: 0;
-
+* {
+  margin-top: 30px;
   text-align: center;
+  font-size: 15px;
+  border: 30px;
+  padding: 12px 32px;
+  margin: 50px;
+  border-radius: 6px;
+}
+
+.first-button {
+  color: white;
+  background-color: rgb(231, 112, 13);
+}
+
+.second-button {
+  color: white;
+  background-color: #1B75D0;
 }
