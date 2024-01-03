@@ -1,23 +1,43 @@
 @charset "utf-8";
 
+body, html {
+  height: 100vh;
+}
+
 body {
-  padding-top: 20px;
+  background-color: #F6F6F6;
+  letter-spacing: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.card {
+  background-color: white;
+  display: inline-block;
+  padding: 30px;
 }
 
 .text {
-  color: blueviolet;
-  background-color: aqua;
-
-  /* border: 2px solid purple; */
-
-  /* border-width: 2px;
-  border-style: solid;
-  border-color: darkorchid; */
-
-  padding: 20px 20px;
   text-align: center;
-  border-radius: 15px;
-  font-size: 24px;
-  font-style: italic;
-  font-weight: bold;
+  font-size: 20px;
+}
+
+.center-div {
+  text-align: center;
+}
+
+.button {
+  background-color: transparent;
+  border: 2px solid #F1CDB3;
+  padding: 15px 45px;
+  border-radius: 100px;
+  letter-spacing: 2px;
+  cursor: pointer;
+  transition: background 0.25s ease-in-out;
+}
+
+.button:hover {
+  background: #F1CDB3;
 }
