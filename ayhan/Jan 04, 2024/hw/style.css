@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+}
+
+svg:hover {
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:active {
+  background-color: black;
+}
+
+.input {
+  border-radius: 34px;
+  border: none;
+  background-color: #EBF2F7;
+  font-size: 16px;
+  cursor: text;
+  padding-inline: 25px;
+  height: 42px;
+  width: 662px;
+}
+
+.input2 {
+  border-radius: 34px;
+  border: none;
+  background-color: #EBF2F7;
+  font-size: 16px;
+  cursor: text;
+  padding-inline: 25px;
+  height: 42px;
+  width: 338px;
+  justify-content: center;
+  align-items: center;
+  text-align: start;
+}
+
+h2,h3,h4,h6 {
+  font-weight: normal;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+hr {
+  background-color: #EBF2F7;
+}
+
+.h3:hover {
+  cursor: pointer;
+  border-bottom: 2px solid black;
+  font-size: 1.17em;
+  /* margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold; */
+}
+
+.sign2:hover {
+  cursor: pointer;
+  border-bottom: 2px solid black;
+  border-color:  #024B82;
+}
+
+.btn2 {
+  background-color: white;
+  border: none;
+}
+
+.btn2:hover {
+  border: none;
+  background-color: #F0F0F0;
+}
