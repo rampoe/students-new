@@ -1,0 +1,25 @@
+h1 {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+}
+
+h1::before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -15px;
+  width: 70%;
+  margin-inline: auto;
+  height: 2px;
+  background: black;
+  transition: transform 0.25s ease-in;
+  transform: scaleX(0);
+  transform-origin: right left;
+}
+
+h1:hover::before {
+  transform: scaleX(1);
+}
