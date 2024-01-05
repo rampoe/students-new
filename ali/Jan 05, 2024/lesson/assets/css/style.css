@@ -1,26 +1,6 @@
 @charset "utf-8";
 
-.container {
-  background-color: yellow;
-  color: red;
-  padding: 20px;
-}
-
-h2 {
-  display: inline-block;
-  /* border: 1px solid red; */
-}
-
-/* .birinji,
-.ikinji,
-.uchunji {
-  width: 33%;
-} */
-
-/* .ikinji {
+h1 {
+  border: 1px solid red;
   text-align: center;
 }
-
-.uchunji {
-  text-align: end;
-} */
