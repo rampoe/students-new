@@ -11,6 +11,10 @@ body {
   margin-bottom: 20px;
 }
 
+.first-text .uly-text {
+  font-size: 20px;
+}
+
 .buttons {
   font-size: 20px;
   color: grey;
