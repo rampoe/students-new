@@ -2,6 +2,12 @@
 
 body {
   margin-left: 35%;
+  background-color: blue;
+}
+
+.container {
+  background-color: white;
+  display: inline-block;
 }
 
 .first-text {
