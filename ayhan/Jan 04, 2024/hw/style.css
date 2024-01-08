@@ -17,7 +17,7 @@ button:active {
 .input {
   border-radius: 34px;
   border: none;
-  background-color: #EBF2F7;
+  background-color: #ebf2f7;
   font-size: 16px;
   cursor: text;
   padding-inline: 25px;
@@ -28,7 +28,7 @@ button:active {
 .input2 {
   border-radius: 34px;
   border: none;
-  background-color: #EBF2F7;
+  background-color: #ebf2f7;
   font-size: 16px;
   cursor: text;
   padding-inline: 25px;
@@ -39,14 +39,17 @@ button:active {
   text-align: start;
 }
 
-h2,h3,h4,h6 {
+h2,
+h3,
+h4,
+h6 {
   font-weight: normal;
   margin-top: 5px;
   margin-bottom: 5px;
 }
 
 hr {
-  background-color: #EBF2F7;
+  background-color: #ebf2f7;
 }
 
 .h3:hover {
@@ -63,7 +66,7 @@ hr {
 .sign2:hover {
   cursor: pointer;
   border-bottom: 2px solid black;
-  border-color:  #024B82;
+  border-color: #024b82;
 }
 
 .btn2 {
@@ -73,5 +76,5 @@ hr {
 
 .btn2:hover {
   border: none;
-  background-color: #F0F0F0;
+  background-color: #f0f0f0;
 }
