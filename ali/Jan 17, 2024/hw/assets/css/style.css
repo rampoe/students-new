@@ -58,3 +58,16 @@ a {
   margin-left: 150px;
   margin-top: 10px;
 }
+
+.wallpaper {
+  display: inline-block;
+  border: none;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.wallpaper-text {
+  margin-left: 134px;
+  font-size: 13px;
+  font-family: roboto, arial;
+}
