@@ -11,3 +11,9 @@
 # print("The result is:", y)
 # """
 # eval(code_block)
+
+code = """
+for i in range(5):
+    print("Number:", i)
+"""
+exec(code)
