@@ -1,0 +1,17 @@
+.bir {
+   background-color: red;
+   color: aliceblue;
+   display: inline-block;
+   padding: 1cm;
+}
+.iki {
+    color: aliceblue;
+    background-color: green;
+    display: inline-block;
+    padding: 0.5cm;
+}
+.uch {
+    color: aliceblue;
+    background-color: black;
+    padding: 0.5cm;
+}

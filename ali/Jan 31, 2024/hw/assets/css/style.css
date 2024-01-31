@@ -1,0 +1,84 @@
+@charset "utf-8";
+
+
+.hemme-zat {
+  background-color: #37517E;
+  height: 100vh;
+}
+
+.logo {
+  margin-top: 10px;
+}
+
+body {
+  margin: 0;
+}
+
+section {
+  background-color: #37517E;
+}
+
+header {
+  margin-top: 20px;
+  align-items: center;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+ul {
+  color: white;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+}
+
+li {
+  font-size: 18px;
+}
+
+.text-box {
+  padding: 10px;
+  border: 2px solid lightskyblue;
+  border-radius: 15px;
+}
+
+h1 {
+  color: white;
+  font-size: 48px;
+}
+
+h2 {
+  color: #AFB9CB;
+}
+
+.h3 {
+  color: white;
+  display: block;
+}
+
+.section-icons {
+  padding: 20px;
+  background: #F3F5FA;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.flex-rahman {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1124px;
+  margin-inline:auto;
+}
+
+.tanyshmak {
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 20px;
+  background-color: #47B2E4;
+}
