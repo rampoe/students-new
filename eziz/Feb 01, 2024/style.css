@@ -1,0 +1,24 @@
+.body {
+  text-align: center;
+}
+
+.bir, .iki, .uch, .dort {
+  display: inline-block;
+  padding: 0.3cm;
+}
+
+.bir {
+  background-color: rgb(202, 80, 80);
+}
+
+.iki {
+  background-color: rgb(202, 184, 80);
+}
+
+.uch {
+  background-color: rgb(197, 206, 150);
+}
+
+.dort {
+  background-color: rgb(117, 202, 117);
+}
