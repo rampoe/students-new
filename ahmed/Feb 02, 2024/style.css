@@ -1,0 +1,14 @@
+h2 {
+  text-transform: uppercase;
+  display: inline-block;
+  color: white;
+  background-color: black;
+  padding: 15px;
+}
+
+.one {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
