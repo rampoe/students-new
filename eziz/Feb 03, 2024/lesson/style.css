@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+  margin: 0;
+}
+
+.bir {
+  background-color: #172f41;
+  color: white;
+  text-align: center;
+}
+.nomer {
+  display: inline-block;
+}
+
+.orta {
+  margin-inline: 150px;
+  display: inline-block;
+}

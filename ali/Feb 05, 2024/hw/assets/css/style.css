@@ -1,0 +1,164 @@
+@charset "utf-8";
+
+
+.hemme-zat {
+  background-color: #37517E;
+  height: 100vh;
+}
+
+.logo {
+  margin-top: 10px;
+}
+
+body {
+  margin: 0;
+}
+
+section {
+  background-color: #37517E;
+}
+
+header {
+  margin-top: 20px;
+  align-items: center;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navbar {
+  color: white;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+}
+
+.navbar li {
+  font-size: 18px;
+}
+
+.text-box {
+  padding: 10px;
+  border: 2px solid lightskyblue;
+  border-radius: 15px;
+}
+
+h1 {
+  color: white;
+  font-size: 48px;
+}
+
+.secong-section-text {
+  color: #AFB9CB;
+}
+
+.h3 {
+  color: white;
+  display: block;
+}
+
+.section-icons {
+  padding: 20px;
+  background: #F3F5FA;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.flex-rahman {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1124px;
+  margin-inline: auto;
+}
+
+.tanyshmak {
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 20px;
+  background-color: #47B2E4;
+}
+
+.about-us {
+  background-color: #ffffff;
+  padding-bottom: 100px;
+}
+
+.biz-barada {
+  display: flex;
+  justify-content: center;
+  color: #37517E;
+  font-size: 20px;
+}
+
+.third-section-first-text {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.third-section-first-text p {
+  font-size: 20px;
+}
+
+.third-section-first-text ul li {
+  font-size: 20px;
+}
+
+.about-us button {
+  padding: 12px 32px;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: white;
+  color: #47b2e4;
+  border: 2px solid #47b2e4;
+  border-radius: 4px;
+}
+
+.about-us button:hover {
+  background-color: #47B2E4;
+  color: white;
+}
+
+.fourth-section {
+  background-color: #F3F5FA;
+  padding-bottom: 100px;
+}
+
+.hyzmatlarymyz {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: #37517E;
+  font-size: 20px;
+}
+
+.hyzmatlarymyz h4 {
+  color: black;
+}
+
+.box {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+
+.box div {
+  display: flex;
+}
+
+.box a {
+  font-size: 21px;
+  color: #37517E;
+  background-color: white;
+  padding: 80px 50px;
+  text-decoration: none;
+}
+
+.box a:hover {
+  color: #47B2E4;
+  cursor: pointer;
+}
