@@ -1,1 +1,43 @@
 @charset "UTF-8";
+
+/* html {
+  font-size: 32px;
+} */
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 16px;
+}
+
+/* .atasy {
+  font-size: 30px;
+} */
+
+/* .atasy, .sample, .ikinji-p { display: inline-block;} */
+
+/* .sample {
+  font-size: 1em;
+}
+
+.ikinji-p {
+  font-size: 15px;
+} */
+
+/* .ch {
+  line-height: 1.5;
+  font-size: 18px;
+  width: 75ch;
+  margin-inline:auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+.rem {
+  line-height: 1.5;
+  width: 75ch;
+  margin-inline:auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.6rem;
+}
