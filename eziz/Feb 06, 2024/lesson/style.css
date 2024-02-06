@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.container {
+  width: 100%;
+  background-color: yellow;
+  padding: 20px;
+  height: 90vh;
+  color: white;
+
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+
+  gap: 40px;
+}
+
+.bir,
+.iki,
+.uch {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
