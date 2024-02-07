@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.e1 {
+  font-size: 0.5rem;
+}
+
+.e2 {
+  font-size: 2rem;
+}
+
+.e3 {
+  font-size: 3cm;
+}
+
+.e4 {
+  font-size: 25mm;
+}
+
+.e5 {
+  font-size: 2.5cm;
+}
+
+.e6 {
+  width: 80ch;
+}
+
+.e7 {
+  font-size: calc(3cm + 1cm);
+}
