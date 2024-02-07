@@ -1,0 +1,19 @@
+/* * {
+  box-sizing: border-box;
+} */
+
+.div1 {
+  background-color: hsl(180, 100%, 50%);
+  width: 500px;
+}
+
+.div2 {
+  background-color: hsl(0, 100%, 77%);
+  width: 500px;
+  height: 30px;
+}
+
+.div3 {
+  background-color: hsl(261, 100%, 61%);
+  width: 500px;
+}

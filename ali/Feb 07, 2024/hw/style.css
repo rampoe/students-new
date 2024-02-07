@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+* {
+  box-sizing: border-box;
+}
+
 .e1 {
   font-size: 0.5rem;
 }
