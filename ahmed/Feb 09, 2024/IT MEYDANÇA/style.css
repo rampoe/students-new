@@ -15,8 +15,8 @@ body {
   background-color: rgb(55, 81, 126);
   display: flex;
   color: white;
-  /* justify-content:  */
   justify-content: space-between;
+  align-items: center;
   padding: 10px 100px;
 }
 
@@ -34,5 +34,6 @@ body {
 
 .menu {
   display: flex;
+  align-items: center;
   gap: 50px;
 }
