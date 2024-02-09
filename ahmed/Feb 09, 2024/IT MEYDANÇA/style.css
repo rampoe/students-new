@@ -10,7 +10,6 @@ body {
   margin: 0;
 }
 
-
 .div1 {
   background-color: rgb(55, 81, 126);
   display: flex;
@@ -35,5 +34,5 @@ body {
 .menu {
   display: flex;
   align-items: center;
-  gap: 50px;
+  gap: 20px;
 }
