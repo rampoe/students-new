@@ -92,6 +92,7 @@ h1 {
   background-color: #F3F5FA;
   display: flex;
   justify-content: space-around;
+  align-items: center;
   /* gap: 70px;
   justify-content: center; */
   padding: 40px 0;
@@ -104,5 +105,4 @@ h1 {
 
 .wr {
   height: 50px !important;
-
 }
