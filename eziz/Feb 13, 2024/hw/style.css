@@ -91,5 +91,12 @@ h1 {
 .html {
   background-color: #F3F5FA;
   display: flex;
+  justify-content: space-around;
+  /* gap: 70px;
+  justify-content: center; */
+}
 
+.html img {
+  height: 120px;
+  width: 120px;
 }
