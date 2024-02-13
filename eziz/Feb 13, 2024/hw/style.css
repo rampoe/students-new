@@ -94,9 +94,15 @@ h1 {
   justify-content: space-around;
   /* gap: 70px;
   justify-content: center; */
+  padding: 40px 0;
 }
 
 .html img {
   height: 120px;
   width: 120px;
+}
+
+.wr {
+  height: 50px !important;
+
 }
