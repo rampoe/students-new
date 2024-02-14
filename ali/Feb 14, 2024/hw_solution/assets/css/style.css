@@ -50,13 +50,28 @@ footer {
   display: flex;
   justify-content: center;
   gap: 4rem;
+  padding-block: 3rem;
 
   & .div1 {
     width: 20%;
   }
 
+  & .address {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  & ul {
+    list-style: none;
+  }
+
   & h2,
   & h4 {
     color: #37517E;
+  }
+
+  & h4,
+  & li {
+    margin-bottom: 1rem;
   }
 }
