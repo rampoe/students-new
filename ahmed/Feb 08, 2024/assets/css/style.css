@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.header-primary {
+  color: white;
+}
+
+.header-top {
+  background-color: hsl(173, 100%, 24%);
+  padding-block: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  & .email {
+    margin-right: 10px;
+  }
+}
+
+.header-bottom {
+  background-color: hsl(173, 100%, 26%);
+}

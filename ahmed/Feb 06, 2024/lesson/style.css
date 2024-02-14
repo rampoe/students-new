@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.container {
+  height: 80vh;
+  background-color: yellow;
+  /* padding: 10px; */
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  /* justify-content: space-evenly; */
+  /* justify-content: space-around; */
+  /* justify-content: space-between; */
+}
+
+.div1,
+.div2,
+.div3 {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+  /* display: inline-block; */
+}
+
+.div1 {
+  align-self: flex-end;
+}
+
+.div2 {
+  align-self: flex-start;
+}

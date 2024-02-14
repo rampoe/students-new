@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body {
+  text-align: center;
+}
+
+.bir, .iki {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 1cm;
+  padding-right: 1cm;
+  border-radius: 5px;
+  border: 0;
+  color: aliceblue;
+}
+
+.bir {
+  background-color: rgb(211, 155, 33);
+  margin-right: 5cm;
+}
+
+.iki {
+  background-color: rgb(33, 131, 211);
+}

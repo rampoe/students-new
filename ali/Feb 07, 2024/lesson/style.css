@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+* {
+  box-sizing: border-box;
+}
+
+.div1 {
+  /* box-sizing: content-box; */
+  background-color: hsl(180, 100%, 50%);
+  width: 500px;
+  padding: 30px;
+  border: 5px solid red;
+}
+
+.div2 {
+  background-color: hsl(0, 100%, 77%);
+  width: 500px;
+  height: 30px;
+  line-height: 1.8;
+}
+
+.div3 {
+  box-sizing: border-box;
+  background-color: hsl(261, 100%, 61%);
+  width: 500px;
+  padding: 30px;
+  border: 5px solid blue;
+  /* margin: 20px; */
+}

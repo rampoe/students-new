@@ -1,0 +1,15 @@
+body a {
+  color: red;
+}
+li a {
+  color: yellow;
+}
+.hello a {
+  color: blue;
+}
+div a {
+  color: purple;
+}
+nav a {
+  color: purple;
+}

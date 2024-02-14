@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.bir {
+  width: 50px;
+}
+.iki {
+  background-color: #37517e;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 50px;
+  padding-block: 20px;
+}
+.uch {
+  display: flex;
+  gap: 30px;
+}

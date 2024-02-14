@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+html, body {
+  min-height: 100%;
+}
+
+.box {
+  width: 600px;
+  height: 100px;
+  background-color: red;
+} 

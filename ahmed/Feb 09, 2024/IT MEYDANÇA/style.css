@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.div1 {
+  background-color: rgb(55, 81, 126);
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 100px;
+}
+
+.it {
+  height: 60px;
+}
+
+.but {
+  border: 2px solid rgb(44, 192, 255);
+  border-radius: 200px;
+  background-color: transparent;
+  color: white;
+  padding: 10px 25px;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}

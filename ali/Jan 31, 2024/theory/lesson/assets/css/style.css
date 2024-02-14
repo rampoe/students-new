@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.btn-primary {
+  background-color: hsl(199, 74%, 59%);
+  border-radius: 20px;
+  color: white;
+  padding-inline: 30px;
+  padding-block: 10px;
+  border: 0;
+
+  &:hover {
+    background-color: white;
+    border: 2px solid hsl(199, 74%, 59%);
+    cursor: pointer;
+    color: hsl(199, 74%, 59%);
+  }
+}
+
+/* .btn-primary:hover {
+  background-color: hsl(199, 74%, 49%);
+  cursor: pointer;
+} */
+
+/* .btn-primary:hover {
+  background-color: white;
+  border: 2px solid hsl(199, 74%, 59%);
+  cursor: pointer;
+  color: hsl(199, 74%, 59%);
+} */
