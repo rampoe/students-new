@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+.title h2,
+.title h3 {
+  text-align: center;
+  color: #37517E;
+}
+
+.title h2 {
+  margin-top: 20px;
+  font-size: 2rem;
+}
+
+.title hr {
+  margin-block: 10px;
+}
