@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  box-sizing: border-box;
 }
 
 .title h2,
@@ -14,5 +15,42 @@
 }
 
 .title hr {
+  margin-block: 10px;
+}
+
+.first-row {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin-top: 30px;
+}
+
+.first-person {
+  display: flex;
+  border-radius: 8px;
+  width: 40%;
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
+}
+
+.first-person .Rahman {
+  border-radius: 50%;
+  max-width: 100%;
+  width: 80%;
+  height: auto;
+}
+
+.first-person .surat {
+  width: 40%;
+}
+
+.first-person h4 {
+  font-size: 20px;
+  color: #37517E;
+}
+
+.maglumat p {
   margin-block: 10px;
 }
