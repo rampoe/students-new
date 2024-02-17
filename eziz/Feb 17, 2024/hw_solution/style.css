@@ -115,6 +115,7 @@ h1 {
   text-align: center;
   color: #37517e;
   font-size: 32px;
+  margin-bottom: 10px;
 }
 
 .flex {
@@ -135,7 +136,7 @@ h1 {
   background-color: white;
   color: #47b2e4;
   border: 2px solid #47b2e4;
-  font-size: 20px;
+  font-size: 16px;
   padding: 10px 25px;
   border-radius: 5px;
   cursor: pointer;
@@ -153,3 +154,34 @@ h1 {
   margin: 0 auto;
   width: 100px;
 } */
+
+.div5 {
+  background-color: #f3f5fa;
+  padding: 30px 0;
+}
+
+.h21 {
+  text-align: center;
+  color: #37517E;
+}
+
+hr {
+  width: 100px;
+}
+
+.p1 {
+  text-align: center;
+}
+
+.div6 {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.div6 div {
+  background-color: white;
+  padding: 20px;
+  width: 20%;
+  border-radius: 5px;
+}
