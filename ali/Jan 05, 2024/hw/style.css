@@ -1,0 +1,141 @@
+@charset "utf-8";
+
+body {
+  margin-left: 35%;
+  background-color: blue;
+}
+
+.container {
+  background-color: white;
+  display: inline-block;
+}
+
+.first-text {
+  font-style: italic;
+  color: gray;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.first-text .uly-text {
+  font-size: 20px;
+}
+
+.buttons {
+  font-size: 20px;
+  color: grey;
+  font-style: italic;
+  margin-bottom: 13px;
+  margin-top: 50px;
+}
+
+.bos-button {
+  padding: 20px 20px;
+  border: none;
+}
+
+.normal {
+  color: grey;
+  text-align: start;
+  font-style: italic;
+}
+
+.hover {
+  color: grey;
+  font-style: italic;
+  text-align: center;
+  margin-left: 75px;
+}
+
+.inactive {
+  color: grey;
+  font-style: italic;
+  text-align: end;
+  margin-left: 75px;
+}
+
+.button1 {
+  margin-top: 20px;
+  background-color: rgb(255, 208, 150);
+  border-radius: 20px;
+  border-width: none;
+  padding: 7px 30px;
+  font-size: 10px;
+  border: none;
+  margin-right: 30px;
+}
+
+.button2 {
+  margin-top: 20px;
+  background-color: bisque;
+  border-radius: 20px;
+  border-width: none;
+  padding: 7px 30px;
+  font-size: 10px;
+  border: none;
+}
+
+.button3 {
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 20px;
+  border-width: 2px;
+  padding: 7px 30px;
+  font-size: 10px;
+  border-color: bisque;
+  margin-right: 30px;
+}
+
+.button4 {
+  margin-top: 20px;
+  background-color: bisque;
+  border-radius: 20px;
+  border-width: none;
+  padding: 7px 30px;
+  font-size: 10px;
+  border: none;
+  margin-bottom: 10px;
+}
+
+.circle {
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 50%;
+  border-width: 2px;
+  padding: 7px 10px;
+  border-color: bisque;
+  margin-right: 120px;
+}
+
+.circle2 {
+  margin-top: 20px;
+  background-color: bisque;
+  border-radius: 50%;
+  padding: 10px 12px;
+  font-size: 10px;
+  border: none;
+  margin-right: 130px;
+}
+
+.circle3 {
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 50%;
+  padding: 7px 10px;
+  border-color: rgb(153, 153, 153);
+  margin-bottom: 30px;
+}
+
+.typography {
+  color: grey;
+  font-style: italic;
+  font-size: 18px;
+}
+
+.h5 {
+  color: grey;
+}
+
+h6 {
+  color: grey;
+}

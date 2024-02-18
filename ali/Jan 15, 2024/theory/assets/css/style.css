@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+html,
+body {
+  min-height: 100vh;
+}
+
+.container {
+  min-width: 90vw;
+  min-height: 90vh;
+  margin-inline: auto;
+  background-color: yellow;
+  padding: 20px;
+
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.child {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+
+.child1 {
+  background-color: red;
+}
+
+.child2 {
+  background-color: green;
+}
+
+.child3 {
+  background: blue;
+}

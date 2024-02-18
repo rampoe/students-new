@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+body {
+  width: 100%;
+  background-color: black;
+}
+
+.div1 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px;
+  background-color: #172F41;
+  color: white;
+}
+
+.icon {
+  font-size: 18px;
+}
+
+img {
+  margin-left: 10px;
+}
+
+.flag {
+  margin-left: 3px;
+}
+
+.div2 {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h1 {
+  color: #002B40;
+  font-family: "Open Sans", sans-serif;
+  margin-left: 50px;
+}
+
+h4 {
+  margin-left: 10px;
+}
+
+.second-div {
+  display: flex;
+}
