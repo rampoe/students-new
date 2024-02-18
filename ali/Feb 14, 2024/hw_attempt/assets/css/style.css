@@ -225,7 +225,7 @@ footer {
   color: #444444;
 }
 
-.div4 div a img {
+/* .div4 div a img {
   margin-right: 10px;
   background-color: #47b2e4;
   color: white;
@@ -233,4 +233,10 @@ footer {
   box-sizing: content-box;
   border: 1px solid;
   border-radius: 20px;
+} */
+
+.twitter-a {
+  background-color: #47b2e4;
+  padding: 10px;
+  border-radius: 50%;
 }
