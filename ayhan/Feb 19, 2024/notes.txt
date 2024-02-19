@@ -1,0 +1,25 @@
+VSCode marketplace для расширений
+
+Для теней https://active-vision.ru/icon/box-shadow/
+
+Для градиентов https://cssgradient.io/
+
+Для стоковых изображений:
+https://unsplash.com/
+https://www.pexels.com/ru-ru/
+https://www.shutterstock.com/photos
+https://www.istockphoto.com/stock-photos
+
+Дизайн:
+https://ru.freepik.com/
+https://dribbble.com/
+
+Сниппеты и код:
+https://codepen.io/
+https://freefrontend.com/
+
+INFA PO CSS AND JS:
+https://developer.mozilla.org/
+https://www.w3schools.com/
+https://learn.javascript.ru/
+https://webref.ru/
