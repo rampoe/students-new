@@ -22,5 +22,11 @@ body {
   /* background-repeat: no-repeat; */
   /* background-image: url("https://cssgradient.io/images/logo-55c31c59.svg"); */
   /* background-repeat: no-repeat; */
-  background-image: linear-gradient(black 50%, white, grey, blue 49%, red, yellow);
+  /* background-image: linear-gradient(black 50%, white, grey, blue 49%, red, yellow); */
+
+  background: rgb(255, 0, 0);
+  background: -moz-radial-gradient(circle, rgba(255, 0, 0, 1) 25%, rgba(241, 255, 0, 1) 65%);
+  background: -webkit-radial-gradient(circle, rgba(255, 0, 0, 1) 25%, rgba(241, 255, 0, 1) 65%);
+  background: radial-gradient(circle, rgba(255, 0, 0, 1) 25%, rgba(241, 255, 0, 1) 65%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0000", endColorstr="#f1ff00", GradientType=1);
 }
