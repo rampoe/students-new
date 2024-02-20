@@ -1,18 +1,18 @@
 @charset "UTF-8";
 
-body {
-  margin: 0;
-}
 
-h1 {
-  padding: 0;
-  margin: 0;
-  border: 0;
-}
-
-h1 {
-  border: 2px solid red;
+.color-name {
   background-color: yellow;
-  padding: 20px;
-  margin: 50px;
+}
+
+.rgb {
+  background-color: rgb(255, 255, 0);
+}
+
+.hsl {
+  background-color: hsl(60, 100%, 50%);
+}
+
+.color-code {
+  background-color: #ffff00;
 }
