@@ -29,10 +29,20 @@ body {
   gap: 30px;
 }
 
+.bir p:hover {
+  color: #47B2E4;
+  cursor: pointer;
+}
+
 .iki {
   border: 2px solid #47B2E4;
   border-radius: 20px;
   padding: 10px 20px;
+}
+
+.iki:hover {
+  background-color: #47B2E4;
+  cursor: pointer;
 }
 
 .logo {
