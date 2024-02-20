@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+body {
+  background: rgb(14, 40, 47);
+  background: -moz-radial-gradient(circle, rgba(14, 40, 47, 1) 0%, rgba(0, 0, 0, 1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(14, 40, 47, 1) 0%, rgba(0, 0, 0, 1) 100%);
+  background: radial-gradient(circle, rgba(14, 40, 47, 1) 0%, rgba(0, 0, 0, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0e282f", endColorstr="#000000", GradientType=1);
+}
