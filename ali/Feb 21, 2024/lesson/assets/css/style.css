@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"); */
 
 *,
 *::before,
@@ -8,6 +8,10 @@
   box-sizing: border-box;
 }
 
-.bashga-shrift {
+/* .bashga-shrift {
   font-family: "Bebas Neue", sans-serif;
 }
+
+.bashga-shrift2 {
+  font-family: "Great Vibes", cursive;
+} */
