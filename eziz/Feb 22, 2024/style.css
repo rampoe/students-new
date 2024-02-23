@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.div1 {
+  border: 1px solid;
+}
+
+.ul1 {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.ul1 li {
+  border: 1px solid;
+}
+
+.ul2 {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 5px;
+}
+
+.others {
+  border: none;
+}
+
+.others1 {
+  border: none;
+}
