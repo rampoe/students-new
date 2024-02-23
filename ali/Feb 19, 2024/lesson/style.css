@@ -1,0 +1,32 @@
+/* body {
+  background: rgb(187, 7, 186);
+  background: -moz-linear-gradient(148deg, rgba(187, 7, 186, 1) 0%, rgba(255, 0, 0, 1) 50%, rgba(255, 87, 212, 1) 100%);
+  background: -webkit-linear-gradient(148deg, rgba(187, 7, 186, 1) 0%, rgba(255, 0, 0, 1) 50%, rgba(255, 87, 212, 1) 100%);
+  background: linear-gradient(148deg, rgba(187, 7, 186, 1) 0%, rgba(255, 0, 0, 1) 50%, rgba(255, 87, 212, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bb07ba", endColorstr="#ff57d4", GradientType=1);
+} */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  /* margin: 0; */
+  /* padding: 0; */
+  /* background-image: linear-gradient(15deg, red, yellow); */
+  /* background-repeat: no-repeat; */
+  /* background-image: url("https://cssgradient.io/images/logo-55c31c59.svg"); */
+  /* background-repeat: no-repeat; */
+  /* background-image: linear-gradient(black 50%, white, grey, blue 49%, red, yellow); */
+
+  background: rgb(255, 0, 0);
+  background: -moz-radial-gradient(circle, rgba(255, 0, 0, 1) 25%, rgba(241, 255, 0, 1) 65%);
+  background: -webkit-radial-gradient(circle, rgba(255, 0, 0, 1) 25%, rgba(241, 255, 0, 1) 65%);
+  background: radial-gradient(circle, rgba(255, 0, 0, 1) 25%, rgba(241, 255, 0, 1) 65%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0000", endColorstr="#f1ff00", GradientType=1);
+}
